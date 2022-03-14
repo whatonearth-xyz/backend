@@ -1,21 +1,15 @@
 version: "2.0"
 
 nlu:
-- intent: greeting
+- intent: web3.md
   examples: |
-    - hey
-    - hello
-    - hi
-    - hello there
-    - good morning
-    - good evening
-    - moin
-    - hey there
-    - let's go
-    - hey dude
-    - goodmorning
-    - goodevening
-    - good afternoon
+    - what is web3?
+    - web3
+    - web3 vs web2
+    - what on earth is web 3
+    - tell me about web3
+    - web3 crypto
+    - why web3
 
 - intent: goodbye
   examples: |
