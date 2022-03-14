@@ -1,0 +1,4 @@
+rasa==2.6.0 
+requests[security]
+flask
+gunicorn
