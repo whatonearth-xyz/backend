@@ -22,3 +22,10 @@ nlu:
     - wallet download
     - safe wallets
     - easy to use wallets
+    
+- intent: selfish_mining.md
+  examples: |
+    - what is a selfish mining
+    - selfish mining
+    - whats selfish mining
+    - explain selfish mining
